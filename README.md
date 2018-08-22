@@ -6,3 +6,6 @@ croecrypto ecdsa demo
   2. sk/vk load from memroy
   3. sk/vk storage 
   4. only vk mode
+
+# openssl ecdsa
+  waiting...
